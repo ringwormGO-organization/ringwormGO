@@ -1,4 +1,4 @@
-# ringwormgo
+# ringwormGO
 Hello this is a small project where I am with friend experimenting/learning how to code. Most of our stuff is made in Visual Studio 2019/VS Code
 
 If you have a suggestion or a problem you want to report feel free to contact me at ringwormgo@gmail.com or create issue for a problem
