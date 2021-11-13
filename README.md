@@ -27,6 +27,10 @@ Game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 
 Door Project GitHub repo: https://github.com/Andrej123456789/Door-Project
 
+mbal: https://github.com/ringwormGO-organization/mbal
+
+ringOS: https://github.com/ringwormGO-organization/ringOS
+
 *Links maybe are showing wrong creator of repo, but link will redirect to official repo*
 
 # SYSTEM REQUIRETMENS
