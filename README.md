@@ -27,6 +27,8 @@ Game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 
 Door Project GitHub repo: https://github.com/Andrej123456789/Door-Project
 
+*Links maybe are showing wrong creator of repo, but link will redirect to official repo*
+
 # SYSTEM REQUIRETMENS
 For specific programs, read their system requiratmens
 
@@ -38,4 +40,3 @@ Minimum max. speed of processor 1.10 GHz
 
 # Announcements / Updates
 On 1.1.2022 most of ringwormGO will be available on Linux
-
