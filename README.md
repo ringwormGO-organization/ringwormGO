@@ -46,7 +46,7 @@ ringOS: https://github.com/ringwormGO-organization/ringOS
 
 For more projects check: https://github.com/ringwormGO-organization
 
-# SYSTEM REQUIRETMENS
+# System requiratmens
 *For specific programs, read their system requiratmens*
 
 Windows 8.1, Windows 10 or Windows 11 64 bit device
