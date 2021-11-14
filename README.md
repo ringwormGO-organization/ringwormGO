@@ -1,14 +1,23 @@
 # ringwormGO
-Hello this is a small project where I am with friend experimenting/learning how to code. Most of our stuff is made in Visual Studio 2019/VS Code
+Hello this is a small project where I am with friend experimenting/learning how to code. Most of our stuff is made in Visual Studio 2019/VS Code.
 
-If you have a suggestion or a problem you want to report feel free to contact me at ringwormgo@gmail.com or create issue for a problem
+If you have a suggestion or a problem you want to report feel free to contact me at ringwormgo@gmail.com or create issue for a problem.
 
-IF THERE ARE NO UPDATES (or repo is archived) THEN PROJECT IS CLOSED (unless we are on vacation)
+### Contributing
+We accept contributors for open source projects.
 
-We accept contributors for some projects
+For contributing create Pull request.
 
-PLEASE READ LICENSE FILE
+### WARNINGS
 
+**REPO WILL BE ARCHIVED IF PROJECT IS CLOSED.**
+
+**PLEASE READ LICENSE FILE**
+
+### Wix game-developemnt website
+https://vangutan2.wixsite.com/ringwormgo-games
+
+### Other main info
 Python OS 2.0 requires psutil library
 
 # Schedule
@@ -20,12 +29,14 @@ Winter vacation: From 21.12 to 6.1
 
 Summer vacation: From 21.6 to 31.7
 
-# Web sites
-Game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
+# Announcements / Updates
+On 1.1.2022 most of ringwormGO will be available on Linux
+
+# List of projects - GitHub repos:
 
 3D PC SANDBOX: https://github.com/Andrej123456789/3D-PC-Sandbox
 
-Door Project GitHub repo: https://github.com/Andrej123456789/Door-Project
+Malware Database: https://github.com/ringwormGO-organization/Malware-Database
 
 mbal: https://github.com/ringwormGO-organization/mbal
 
@@ -33,8 +44,10 @@ ringOS: https://github.com/ringwormGO-organization/ringOS
 
 *Links maybe are showing wrong creator of repo, but link will redirect to official repo*
 
+For more projects check: https://github.com/ringwormGO-organization
+
 # SYSTEM REQUIRETMENS
-For specific programs, read their system requiratmens
+*For specific programs, read their system requiratmens*
 
 Windows 8.1, Windows 10 or Windows 11 64 bit device
 
@@ -42,5 +55,7 @@ Windows 8.1, Windows 10 or Windows 11 64 bit device
 
 Minimum max. speed of processor 1.10 GHz
 
-# Announcements / Updates
-On 1.1.2022 most of ringwormGO will be available on Linux
+__________
+
+©2021 ringwormGO
+Thanks for choosing ringwormGO
