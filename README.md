@@ -58,4 +58,5 @@ Minimum max. speed of processor 1.10 GHz
 __________
 
 ©2021 ringwormGO
+
 Thanks for choosing ringwormGO
