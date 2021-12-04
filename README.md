@@ -42,6 +42,8 @@ mbal: https://github.com/ringwormGO-organization/mbal
 
 ringOS: https://github.com/ringwormGO-organization/ringOS
 
+Termi: https://github.com/ringwormGO-organization/Termi
+
 aquaOS: https://github.com/StjepanBM1/aquaOS
 
 *Links maybe are showing wrong creator of repo, but link will redirect to official repo*
