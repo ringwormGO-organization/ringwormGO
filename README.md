@@ -46,6 +46,8 @@ Termi: https://github.com/ringwormGO-organization/Termi
 
 aquaOS: https://github.com/StjepanBM1/aquaOS
 
+SparrowOS: https://github.com/StjepanBM1/SparrowOS
+
 *Links maybe are showing wrong creator of repo, but link will redirect to official repo*
 
 For more projects check: https://github.com/ringwormGO-organization
