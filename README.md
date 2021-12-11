@@ -34,6 +34,8 @@ On 1.1.2022 most of ringwormGO will be available on Linux
 
 # List of projects - GitHub repos:
 
+DoorOS: https://github.com/ringwormGO-organization/DoorOS
+
 3D PC SANDBOX: https://github.com/Andrej123456789/3D-PC-Sandbox
 
 Malware Database: https://github.com/ringwormGO-organization/Malware-Database
