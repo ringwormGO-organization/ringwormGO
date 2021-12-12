@@ -3,6 +3,17 @@ Hello this is a small project where I am with friend experimenting/learning how 
 
 If you have a suggestion or a problem you want to report feel free to contact me at ringwormgo@gmail.com or create issue for a problem.
 
+### Website and Discord things
+https://ringwormgo-web.andrejbartulin.repl.co/ - ringwormGO
+
+https://aquaos.stjepanstjepan.repl.co/ - aquaOS
+
+__________________________________________________________________________
+
+https://discord.gg/zyzbdrDRQF - Discord server
+
+https://discord.com/api/oauth2/authorize?client_id=899611372697030686&permissions=8&scope=bot - Discord bot
+
 ### Contributing
 We accept contributors for open source projects.
 
