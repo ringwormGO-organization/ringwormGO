@@ -4,6 +4,9 @@ Hello this is a small project where I am with friend experimenting/learning how 
 If you have a suggestion or a problem you want to report feel free to contact me at ringwormgo@gmail.com or create issue for a problem.
 
 ### Website and Discord things
+https://www.youtube.com/channel/UC87hNTN-6ahkRfHPs0iVfTg/featured - YouTube channel
+______________________________________________________________________
+
 https://ringwormgo-web.andrejbartulin.repl.co/ - ringwormGO
 
 https://aquaos.stjepanstjepan.repl.co/ - aquaOS
