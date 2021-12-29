@@ -39,7 +39,7 @@ Usual commits happen every month with small updates/bug fixes in the meantime
 
 # VACATIONS: (small updates/bug fixes during vacation may still happen)
 
-Winter vacation: From 21.12 to 6.1
+Winter vacation: From 21.12 to 27.12 and from 31.12 to 3.1
 
 Summer vacation: From 21.6 to 31.7
 
@@ -57,6 +57,8 @@ Malware Database: https://github.com/ringwormGO-organization/Malware-Database
 mbal: https://github.com/ringwormGO-organization/mbal
 
 ringOS: https://github.com/ringwormGO-organization/ringOS
+
+ringOSY: https://github.com/ringwormGO-organization/ringOSY
 
 Termi: https://github.com/ringwormGO-organization/Termi
 
