@@ -15,7 +15,7 @@ __________________________________________________________________________
 
 https://discord.gg/zyzbdrDRQF - Discord server
 
-https://discord.com/api/oauth2/authorize?client_id=899611372697030686&permissions=8&scope=bot - Discord bot
+https://discord.com/api/oauth2/authorize?client_id=899611372697030686&permissions=1437033295862&scope=bot - Discord bot
 
 ### Contributing
 We accept contributors for open source projects.
@@ -48,9 +48,9 @@ On 1.1.2022 most of ringwormGO will be available on Linux
 
 # List of projects - GitHub repos:
 
-DoorOS: https://github.com/ringwormGO-organization/DoorOS
-
 3D PC SANDBOX: https://github.com/Andrej123456789/3D-PC-Sandbox
+
+DoorOS: https://github.com/ringwormGO-organization/DoorOS
 
 Malware Database: https://github.com/ringwormGO-organization/Malware-Database
 
@@ -62,16 +62,10 @@ ringOSY: https://github.com/ringwormGO-organization/ringOSY
 
 Termi: https://github.com/ringwormGO-organization/Termi
 
-aquaOS: https://github.com/StjepanBM1/aquaOS
-
-SparrowOS: https://github.com/StjepanBM1/SparrowOS
-
-*Links maybe are showing wrong creator of repo, but link will redirect to official repo*
-
 For more projects check: https://github.com/ringwormGO-organization
 
 # System requiratmens
-*For specific programs, read their system requiratmens*
+*For specific projects, read their system requiratmens*
 
 Windows 8.1, Windows 10 or Windows 11 64 bit device
 
@@ -83,4 +77,4 @@ __________
 
 ©2021 ringwormGO
 
-Thanks for choosing ringwormGO
+Thank you for choosing ringwormGO
