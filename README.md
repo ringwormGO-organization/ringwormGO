@@ -7,7 +7,7 @@ If you have a suggestion or a problem you want to report feel free to contact me
 https://www.youtube.com/channel/UC87hNTN-6ahkRfHPs0iVfTg/featured - YouTube channel
 ______________________________________________________________________
 
-https://ringwormgo-web.andrejbartulin.repl.co/ - ringwormGO
+https://ringwormgo-web.ringwormgo.repl.co/ - ringwormGO
 
 https://replexos.stjepanstjepan.repl.co/- ReplexOS
 
