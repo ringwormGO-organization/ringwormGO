@@ -9,7 +9,7 @@ ______________________________________________________________________
 
 https://ringwormgo-web.andrejbartulin.repl.co/ - ringwormGO
 
-https://aquaos.stjepanstjepan.repl.co/ - aquaOS
+https://replexos.stjepanstjepan.repl.co/- ReplexOS
 
 __________________________________________________________________________
 
