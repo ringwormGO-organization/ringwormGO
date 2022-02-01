@@ -9,8 +9,6 @@ ______________________________________________________________________
 
 https://ringwormgo-web.ringwormgo.repl.co/ - ringwormGO
 
-https://replexos.stjepanstjepan.repl.co/- ReplexOS
-
 __________________________________________________________________________
 
 https://discord.gg/zyzbdrDRQF - Discord server
@@ -75,6 +73,6 @@ Minimum max. speed of processor 1.10 GHz
 
 __________
 
-©2021 ringwormGO
+©2022 ringwormGO
 
 Thank you for choosing ringwormGO
