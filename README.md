@@ -1,15 +1,12 @@
 # ringwormGO
-Hello this is a small project where I am with friend experimenting/learning how to code. Most of our stuff is made in Visual Studio 2019/VS Code.
+Hello this is a small project (organization) where we experimenting/learning how to code. Most of our stuff is made in Visual Studio 2019/VS Code.
 
 If you have a suggestion or a problem you want to report feel free to contact me at ringwormgo@gmail.com or create issue for a problem.
 
 ### Website and Discord things
 https://www.youtube.com/channel/UC87hNTN-6ahkRfHPs0iVfTg/featured - YouTube channel
-______________________________________________________________________
 
-https://ringwormgo-web.ringwormgo.repl.co/ - ringwormGO
-
-__________________________________________________________________________
+https://ringwormgo-web.ringwormgo.repl.co/ - ringwormGO website
 
 https://discord.gg/zyzbdrDRQF - Discord server
 
@@ -24,7 +21,9 @@ For contributing create Pull request.
 
 **REPO WILL BE ARCHIVED IF PROJECT IS CLOSED.**
 
-**PLEASE READ LICENSE FILE**
+**PLEASE READ LICENSE FILE FOR EACH PROJECT YOU VISIT**
+
+We use MIT, GPL3 or BSD-3-Clause-License for our projects.
 
 ### Wix game-developemnt website
 https://vangutan2.wixsite.com/ringwormgo-games
