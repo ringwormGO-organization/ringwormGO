@@ -23,7 +23,8 @@ For contributing create Pull request.
 
 **PLEASE READ LICENSE FILE FOR EACH PROJECT YOU VISIT**
 
-We use MIT, GPL3 or BSD-3-Clause-License for our projects.
+We used MIT, GPL3 or BSD-3-Clause-License for our projects.
+Now we use our own license
 
 ### Wix game-developemnt website
 https://vangutan2.wixsite.com/ringwormgo-games
