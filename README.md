@@ -32,10 +32,10 @@ Python OS 2.0 requires psutil library
 ### Schedule
 Usual commits happen every month with small updates/bug fixes in the meantime
 
-#### Slow down: (less updates)
-Winter vacation: From 21.12 to 27.12 and from 31.12 to 3.1
+#### Slow-down: (less updates)
+Winter slow-down: From 21.12 to 27.12 and from 31.12 to 3.1
 
-Summer vacation: From 21.6 to 31.7
+Summer slow-down: From 21.6 to 31.7
 
 # Announcements / Updates
 On 1.1.2022 most of ringwormGO will be available on (GNU/)Linux and maybe on other operating system which supports POSIX.
