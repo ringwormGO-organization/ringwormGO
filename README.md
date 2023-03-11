@@ -13,7 +13,7 @@ Now we use our own license
 
 ### Contacts
 - [YouTube channel](https://www.youtube.com/channel/UC87hNTN-6ahkRfHPs0iVfTg/featured)
-- [ringwormGO website (never, link for old one is on that website)](https://ringwormgo-website-new.ringwormgo.repl.co/)
+- [ringwormGO website](https://ringwormgo-web.ringwormgo.repl.co/new/index.html)
 - [Discord server](https://discord.gg/zyzbdrDRQF)
 
 ### Contributing
