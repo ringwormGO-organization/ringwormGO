@@ -16,6 +16,8 @@ For any issues/bugs report them on the projects repository.
 
 [Discord](https://discord.gg/zyzbdrDRQF)
 
+[Matrix](https://matrix.to/#/#ringwormgo:matrix.org)
+
 <hr>
 
 ### Slowdown / working time :
