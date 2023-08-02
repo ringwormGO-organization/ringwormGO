@@ -22,7 +22,7 @@ For any issues/bugs report them on the projects repository.
 
 ### Slowdown / working time :
 - Winter slow-down: From 21.12 to 27.12 and from 31.12 to 3.1
-- Summer slow-down: From 21.6 to 31.7
+- Summer slow-down: From 21.6 to 15.7 and from 31.7 to 25.8
 
 ## WARNINGS
 **REPO WILL BE ARCHIVED IF PROJECT IS CLOSED.**
